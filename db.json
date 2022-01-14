@@ -1,0 +1,11 @@
+{
+    "users": [{
+            "id": "{index}",
+            "pictureAddress": "{pictureAddress}"
+        },
+        {
+            "id": "{index}",
+            "pictureAddress": "{pictureAddress}"
+        }
+    ]
+}
